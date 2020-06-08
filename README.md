@@ -13,7 +13,7 @@ Creating SIP Endpoint allows you to make and receive video calls, where making v
 4. Setup your webserver and map your POST method URL in <a href="https://doc.telecmi.com/piopiy/docs/build-app/#app-id-and-secret" target="_blank">answer URL</a>.
 
 
-## Create SIP Usermurugan1
+## Create SIP User
 
 To create a SIP user, send your __POST__ method request with valid parameters to the following base URL.
 
