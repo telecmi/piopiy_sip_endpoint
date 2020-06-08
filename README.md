@@ -290,11 +290,11 @@ Connects video or audio call to multiple SIP endpoint
             "call": [
                 {
                     "type": "sip",
-                    "user": "Sam"
+                    "user": "YOUR_USERNAME"
                 },
                 {
                     "type": "sip",
-                    "user": "Victor"
+                    "user": "YOUR_USERNAME_1"
                 }
             ]
         }
@@ -317,7 +317,7 @@ Connects video or audio call to single SIP endpoint
             "call": [
                 {
                     "type": "sip",
-                    "user": "Sam"
+                    "user": "YOUR_USERNAME"
                 }
             ]
         }
